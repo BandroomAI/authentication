@@ -1,0 +1,4 @@
+.env
+authentication/keys/private.pem
+jwk.json
+
