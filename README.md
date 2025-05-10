@@ -1,5 +1,3 @@
-# Band Room Authentication Commands
-
 ## Start the authentication service
 
 go run cmd/main.go
